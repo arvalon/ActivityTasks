@@ -7,6 +7,7 @@ import android.util.Log;
 
 /**
  * Created by arvalon on 27.02.2018.
+ * This line added from Flash
  */
 
 public class App extends Application {
